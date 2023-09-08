@@ -1,6 +1,7 @@
 require "rspec/pact/matchers/version"
 require "pact/support"
 require "term/ansicolor"
+require "rspec/matchers"
 
 RSpec::Matchers.define :match_pact do |expected, options = {}|
 
