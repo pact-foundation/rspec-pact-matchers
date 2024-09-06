@@ -51,6 +51,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/pact-f
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-[pact-gem]: https://github.com/realestate-com-au/pact
-[pact-matchers]: https://github.com/realestate-com-au/pact/wiki/v2-flexible-matching
+[pact-gem]: https://github.com/pact-foundation/pact-ruby
+[pact-matchers]: https://docs.pact.io/implementation_guides/ruby/matching
 [postels-law]: https://en.wikipedia.org/wiki/Robustness_principle
